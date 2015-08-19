@@ -1,6 +1,6 @@
-## Reykavik JS
+## Reykjavik JS
 
-A weekly free + public hangout for JavaScript enthusiasts that happens in Reykjavik, Iceland. No presentations, RSVPs or startup pitches/overt recruiting allowed, just show up and talk, learn and hack!
+A weekly free + public hangout for JavaScript enthusiasts that happens in Reykjavik, Iceland. No presentations, RSVPs or any formal schedule(most of the time), just show up and talk, learn and hack!
 
 ## When & Where
 
