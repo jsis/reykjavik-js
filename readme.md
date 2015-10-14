@@ -4,8 +4,8 @@ A weekly free + public hangout for JavaScript enthusiasts that happens in Reykja
 
 ## When & Where
 
-Every Wednesday, 19:30 - 21:30
-KEX hostel
-Skúlagata 28, 101 Reykjavík
+Every Wednesday, 17:30 - 19:30
+Loft hostel
+Bankastræti, 101 Reykjavík
 
 More at http://rvkjs.com
